@@ -28,6 +28,7 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:
 ```bash
 git clone https://github.com/MR-Shivam-Tiwari/Course-Listing.git
+
 cd Course-Listing/frontend
 npm install
 npm start
@@ -51,10 +52,8 @@ Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 License
 Distributed under the MIT License. See LICENSE for more information.
-Project Link: https://github.com/MR-Shivam-Tiwari/Course-Listing
-Acknowledgments
-React
-Bootstrap
-Bootstrap Icons
-React Router
-Make sure to replace placeholders like your contact information and any specific instructions or descriptions with accurate details relevant to your project. This README will help users understand what your project does, how to set it up, and how to contribute to it.
+
+
+
+
+
