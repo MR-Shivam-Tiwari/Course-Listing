@@ -1,4 +1,3 @@
-# Course-Listing
 # Course Listing App
 
 This project is a Course Listing App created with React. It allows users to view a list of courses, search for courses by name or instructor, view detailed information about each course, enroll in courses, and view a dashboard of enrolled courses.
