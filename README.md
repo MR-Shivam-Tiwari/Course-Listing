@@ -1,4 +1,6 @@
 # Course Listing App
+![image](https://github.com/MR-Shivam-Tiwari/Course-Listing/assets/114647321/edab85e3-289d-4e58-9dfa-7d9794d41819)
+
 
 This project is a Course Listing App created with React. It allows users to view a list of courses, search for courses by name or instructor, view detailed information about each course, enroll in courses, and view a dashboard of enrolled courses.
 
